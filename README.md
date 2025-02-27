@@ -32,6 +32,5 @@ SCREENSHOTS-
 2) ![html2](https://github.com/user-attachments/assets/249bbc36-6b5a-430d-b4a1-046aa63013f6)
 
 
-Video-
-"C:\Users\mamid\OneDrive\Desktop\html css project video.mp4"
+
 
